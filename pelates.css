@@ -1,0 +1,14 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  /*border-collapse: collapse;*/
+  /*width: 40%;*/
+}
+
+th {
+  height: 40px;
+  background-color: #4CAF50;
+  color: white;
+}
