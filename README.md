@@ -1,2 +1,2 @@
 # Clientele
-Web app that clients along with their orders/offers and their debt.
+Web app that stores clients along with their orders/offers and their debt.
